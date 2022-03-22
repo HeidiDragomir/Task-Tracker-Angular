@@ -9,9 +9,12 @@ It wasn't meant to be published on GitHub in the first place, but I want to upda
 I used JSON Server to create a full fake REST API located locally here: http://localhost:5000
 
 ---
+
 <div class="container" style="display:flex; gap:10px">
-    <img src="./src/assets/Task Tracker1.JPG">
-    <img src="./src/assets/Task Tracker2.JPG">
+    <div>
+        <img src="./src/assets/Task Tracker1.JPG">
+    </div>
+    <div>
+        <img src="./src/assets/Task Tracker2.JPG">
+    </div>
 </div>
-
-
