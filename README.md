@@ -12,9 +12,9 @@ I used JSON Server to create a full fake REST API located locally here: http://l
 
 <div class="container" style="display:flex; gap:10px">
     <div>
-        <img src="./src/assets/Task Tracker1.JPG">
+        <img src="./src/assets/Task Tracker1.JPG" width="20%">
     </div>
     <div>
-        <img src="./src/assets/Task Tracker2.JPG">
+        <img src="./src/assets/Task Tracker2.JPG" width="20%">
     </div>
 </div>
