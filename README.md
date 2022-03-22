@@ -10,7 +10,7 @@ I used JSON Server to create a full fake REST API located locally here: http://l
 
 ---
 
-<table>
+<table styles="border: none">
     <tr>
     <td><img src="./src/assets/Task Tracker1.JPG"></td>
     <td><img src="./src/assets/Task Tracker2.JPG"></td>
